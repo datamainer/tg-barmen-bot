@@ -2,7 +2,7 @@ import telebot
 import json
 from telebot import types
 
-bot = telebot.TeleBot('5808933851:AAHa6fJ2M6KL8kPVVZNvUDfqK3Ee5T0YS1I')
+bot = telebot.TeleBot('')
 
 
 def json_to_dict(file_name):
